@@ -1,5 +1,5 @@
 {
-    "name": "Support3w/json-api-transport-service",
+    "name": "support3w/json-api-transport-service",
     "autoload": {
         "psr-4": {
             "Support3w\\JsonApiTransportService\\": "src"
